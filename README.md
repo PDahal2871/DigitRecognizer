@@ -1,6 +1,6 @@
-# Digit Recognizer
+# Kaggle Competition Projects
 
-#### This project is about recognizing MNIST datasets digits using CNN
+#### This repository will contain all the projects that I have done in Kaggle
 
 ## Tools Used:
 - Python
@@ -10,4 +10,5 @@
 - Pandas
 - Numpy
 
-<a href="https://www.kaggle.com/c/digit-recognizer/data"> Dataset Link </a>
+1. Digit Recognizer
+ - <a href="https://www.kaggle.com/c/digit-recognizer/data"> Dataset Link </a>
