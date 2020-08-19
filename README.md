@@ -10,5 +10,6 @@
 - Pandas
 - Numpy
 
-1. Digit Recognizer
+## Projects
+<b>1. Digit Recognizer</b>
  - <a href="https://www.kaggle.com/c/digit-recognizer/data"> Dataset Link </a>
